@@ -27,7 +27,7 @@ namespace ProjectGitHubOne
 
                 Console.WriteLine(zamienna_na_int_pierwsza_zmienna + " + " + zamienna_na_int_druga_zmienna + " = " + (zamienna_na_int_pierwsza_zmienna + zamienna_na_int_druga_zmienna));
             else
-                Console.WriteLine("Obie liczby są równe więc wynik z odejmowania wyjdzie 0, a z dodawania razy 2");
+                Console.WriteLine("_Obie liczby są równe więc wynik z odejmowania wyjdzie 0, a z dodawania razy 2");
             Console.ReadLine();
 
             
